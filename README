@@ -2,4 +2,3 @@ GOOGLE CONTACTS UPLOADER
 
 Simple library that parses and uploads contact information contained in a CSV file to a Gmail account using the Google Contacts API. The library uses batch operations and multiple threads in order to optimize the upload process.
 
-More features and tests will be added soon.
